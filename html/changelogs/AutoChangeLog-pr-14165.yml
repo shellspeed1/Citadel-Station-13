@@ -1,0 +1,4 @@
+author: "silicons"
+delete-after: True
+changes: 
+  - balance: "circuit gun assemblies now have 4ds enforced cooldown up from 1"
